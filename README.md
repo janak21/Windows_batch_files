@@ -1,7 +1,7 @@
 # Windows_batch_files
 **#Online_Exam**
 
-This file is created to instantly open online examination portal of my university.\
+This file is created to instantly open online examination portal of my university.
 
 **#Orgniser**
 
